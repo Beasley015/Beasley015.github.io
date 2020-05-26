@@ -1,0 +1,46 @@
+---
+title: "Emily Beasley"
+output:
+  html_document:
+    fig_width: 1
+---
+
+----
+#### Note: site is currently in development. Please check back later for updates.
+
+# Welcome to my webpage! 
+:::::: {.columns}
+
+::: {.column width="55%" data-latex="{0.55\textwidth}"}
+
+:::
+
+::: {.column width="5%" data-latex="{0.05\textwidth}"}
+\ 
+<!-- an empty Div (with a white space), serving as
+a column separator -->
+:::
+
+::: {.column width="40%" data-latex="{0.4\textwidth}"}
+I’m currently a PhD candidate at the University of Vermont. I’m interested in how ecological processes differ across spatial, temporal, and hierarchical scales. Currently, my work focuses on small mammal community assembly, host-parasite interactions, and coffee rust transmission across landscapes.  
+  
+Feel free to check out the Research and CV tabs for more information.
+:::
+::::::
+  
+  
+## Research  
+
+#### Host/ectoparasite interactions
+
+#### Disease transmission at the landscape scale
+  
+## Publications  
+
+**Beasley, E.M.** & Maher, S.P. 2019. Small mammal community composition varies among Ozark glades. *Journal of Mammalogy* 100:1774--1782. [pdf](BeasleyMaher2019.pdf) [Github](https://github.com/Beasley015/Beasley-Maher2019_Small_Mammal_Community_Ozark)
+  
+## CV
+
+[Emily Beasley's CV](Beasley_CV.pdf)
+
+## Contact

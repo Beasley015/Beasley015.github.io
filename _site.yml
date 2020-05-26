@@ -1,0 +1,5 @@
+name: "Emily Beasley"
+output_dir: "."
+output:
+  rmdformats::readthedown
+    
