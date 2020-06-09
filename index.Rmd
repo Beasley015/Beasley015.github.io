@@ -31,9 +31,15 @@ Feel free to check out the Research and CV tabs for more information.
   
 ## Research  
 
+I use quantitative methods to examine how ecological processes vary across spatial, temporal, and organizational scales. I'm especially interested in exploring these topics in the context of community ecology and disease ecology. 
+
+Over the course of my graduate studies I've also developed an interest in alternatives to p-value significance testing, and how these alternatives can be used to more effectively describe ecological systems. My past and current research primarily uses Bayesian hierarchical models, but I hope to expand to other quantitative techniques in the future. 
+
 #### Host/ectoparasite interactions
 
 #### Disease transmission at the landscape scale
+
+Landscape structure influences the spread of plant pathogens, primarily by affecting pathogen dispersal. Coffee leaf rust (*Hemileia vastatrix*), a fungal disease that causes heavy economic losses in the coffee industry, is likely to be affected by landscape structure via dispersal of its wind-borne spores. My collaborators Natalia Aristizabal, Erika Bueno, Easton White, and I are using simulated landscapes to model the effects of landscape structure on coffee rust transmission.
   
 ## Publications  
 
