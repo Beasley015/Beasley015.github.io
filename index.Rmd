@@ -31,11 +31,13 @@ Feel free to check out the Research and CV tabs for more information.
   
 ## Research  
 
-I use quantitative methods to examine how ecological processes vary across spatial, temporal, and organizational scales. I'm especially interested in exploring these topics in the context of community ecology and disease ecology. 
+I use quantitative methods to examine how ecological processes vary across spatial, temporal, and organizational scales; especially in the context of community ecology and disease ecology. 
 
 Over the course of my graduate studies I've also developed an interest in alternatives to p-value significance testing, and how these alternatives can be used to more effectively describe ecological systems. My past and current research primarily uses Bayesian hierarchical models, but I hope to expand to other quantitative techniques in the future. 
 
 #### Host/ectoparasite interactions
+
+Ectoparasites vary considerably in feeding mode and life history. This variation in turn affects how ectoparasites respond to processes operating on different scales. Using Bayesian hierarchical modeling techniques, I am investigating how an ectoparasite's life history, specifically the portion of the life cycle spent on-host, affects whether the host individual or the external environment play a bigger role in ectoparasite occupancy. 
 
 #### Disease transmission at the landscape scale
 
