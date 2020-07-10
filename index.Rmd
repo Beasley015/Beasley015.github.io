@@ -2,31 +2,54 @@
 title: "Emily Beasley"
 output:
   html_document:
-    fig_width: 1
+    fig_width: 0.5
 ---
 
 ----
-#### Note: site is currently in development. Please check back later for updates.
+
+```{r setup, include = F, warning = F, echo = F}
+library(knitr)
+```
 
 # Welcome to my webpage! 
-:::::: {.columns}
+<style>
+.column-left{
+  float: left;
+  width: 48%;
+  text-align: center;
+}
+.column-right{
+  float: right;
+  width: 48%;
+  text-align: left;
+}
+</style>
 
-::: {.column width="55%" data-latex="{0.55\textwidth}"}
+<div class = "column-left">
+```{r  out.width = "75%", echo = F}
+include_graphics('mewmouse.jpg') 
+```
+<br>
+<br>
+<br>
+</div>
 
-:::
-
-::: {.column width="5%" data-latex="{0.05\textwidth}"}
-\ 
-<!-- an empty Div (with a white space), serving as
-a column separator -->
-:::
-
-::: {.column width="40%" data-latex="{0.4\textwidth}"}
+<div class = "column-right">
 I’m currently a PhD candidate at the University of Vermont. I’m interested in how ecological processes differ across spatial, temporal, and hierarchical scales. Currently, my work focuses on small mammal community assembly, host-parasite interactions, and coffee rust transmission across landscapes.  
   
 Feel free to check out the Research and CV tabs for more information.
-:::
-::::::
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</div>  
+  
   
   
 ## Research  
@@ -52,3 +75,7 @@ Landscape structure influences the spread of plant pathogens, primarily by affec
 [Emily Beasley's CV](Beasley_CV.pdf)
 
 ## Contact
+
+Email: ebeasley \<at\> uvm \<dot\> edu
+
+[Github](https://github.com/beasley015)
