@@ -68,6 +68,8 @@ Landscape structure influences the spread of plant pathogens, primarily by affec
   
 ## Publications  
 
+**Beasley, E.**, Aristizabal, N., Bueno, E., & White, E. 2020. Spatially explicit models predict coffee rust spread in fragmented landscapes. bioRxiv 2020.10.16.343194. https://doi.org/10.1101/2020.10.16.343194 [pdf](BeasleyetalRustLandscape.pdf) [Github](https://github.com/Beasley015/QuestCoffeeRustLandscape)
+
 **Beasley, E.M.** & Maher, S.P. 2019. Small mammal community composition varies among Ozark glades. *Journal of Mammalogy* 100:1774--1782. [pdf](BeasleyMaher2019.pdf) [Github](https://github.com/Beasley015/Beasley-Maher2019_Small_Mammal_Community_Ozark)
   
 ## CV
