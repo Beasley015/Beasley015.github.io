@@ -62,13 +62,17 @@ Over the course of my graduate studies I've also developed an interest in altern
 
 Ectoparasites vary considerably in feeding mode and life history. This variation in turn affects how ectoparasites respond to processes operating on different scales. Using Bayesian hierarchical modeling techniques, I am investigating how an ectoparasite's life history, specifically the portion of the life cycle spent on-host, affects whether the host individual or the external environment play a bigger role in ectoparasite occupancy. 
 
-#### Disease transmission at the landscape scale
+#### Environmental effects on disease transmission and prevention
 
 Landscape structure influences the spread of plant pathogens, primarily by affecting pathogen dispersal. Coffee leaf rust (*Hemileia vastatrix*), a fungal disease that causes heavy economic losses in the coffee industry, is likely to be affected by landscape structure via dispersal of its wind-borne spores. My collaborators Natalia Aristizabal, Erika Bueno, Easton White, and I are using simulated landscapes to model the effects of landscape structure on coffee rust transmission.
+
+Urbanization can affect the transmission and management of zoonotic diseases via changes in host ecology or management strategies. This is particularly true for the raccoon variant of the rabies virus, for which urbanization results in increased population densities of the raccoon hosts and presents challenges for deployment of the oral rabies vaccine (ORV). With my collaborators Amy Davis, Kathy Nelson, Rich Chipman, and Amy Gilbert at USDA APHIS, I used a Bayesian hierarchical model to jointly estimate raccoon abundance and rabies seroprevalence in the urban landscape of Burlington, Vermont. 
   
 ## Publications  
 
-**Beasley, E.**, Aristizabal, N., Bueno, E., & White, E. 2020. Spatially explicit models predict coffee rust spread in fragmented landscapes. bioRxiv 2020.10.16.343194. https://doi.org/10.1101/2020.10.16.343194 [pdf](BeasleyetalRustLandscape.pdf) [Github](https://github.com/Beasley015/QuestCoffeeRustLandscape)
+**Beasley, E.M.** Ecologically informed priors improve Bayesian model estimates of species richness and occupancy for undetected species. In review at *Ecology*. 
+
+**Beasley, E.M.**, Aristizabal, N., Bueno, E.M., & White, E.R. 2020. Spatially explicit models predict coffee rust spread in fragmented landscapes. bioRxiv 2020.10.16.343194. https://doi.org/10.1101/2020.10.16.343194. In review at *Landscape Ecology*. [pdf](BeasleyetalRustLandscape.pdf) [Github](https://github.com/Beasley015/QuestCoffeeRustLandscape)
 
 **Beasley, E.M.** & Maher, S.P. 2019. Small mammal community composition varies among Ozark glades. *Journal of Mammalogy* 100:1774--1782. [pdf](BeasleyMaher2019.pdf) [Github](https://github.com/Beasley015/Beasley-Maher2019_Small_Mammal_Community_Ozark)
   
