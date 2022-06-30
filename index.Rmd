@@ -70,9 +70,9 @@ Urbanization can affect the transmission and management of zoonotic diseases via
   
 ## Publications  
 
-**Beasley, E.M.** Ecologically informed priors improve Bayesian model estimates of species richness and occupancy for undetected species. In preparation. 
+**Beasley, E.M.** Ecologically informed priors improve Bayesian model estimates of species richness and occupancy for undetected species. In review. 
 
-**Beasley, E.M.**, Aristizabal, N., Bueno, E.M., & White, E.R. 2020. Spatially explicit models predict coffee rust spread in fragmented landscapes. bioRxiv 2020.10.16.343194. https://doi.org/10.1101/2020.10.16.343194. In review at *Landscape Ecology*. [pdf](BeasleyetalRustLandscape.pdf) [Github](https://github.com/Beasley015/QuestCoffeeRustLandscape)
+**Beasley, E.M.**, Aristizabal, N., Bueno, E.M., & White, E.R. 2022. Spatially explicit models predict coffee rust spread in fragmented landscapes. *Landscape Ecology*. https://doi.org/10.1007/s10980-022-01473-1 [pdf](Beasley_etal_2022_coffee_rust.pdf) [Github](https://github.com/Beasley015/QuestCoffeeRustLandscape)
 
 **Beasley, E.M.** & Maher, S.P. 2019. Small mammal community composition varies among Ozark glades. *Journal of Mammalogy* 100:1774--1782. [pdf](BeasleyMaher2019.pdf) [Github](https://github.com/Beasley015/Beasley-Maher2019_Small_Mammal_Community_Ozark)
   
