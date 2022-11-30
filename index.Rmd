@@ -70,7 +70,9 @@ Urbanization can affect the transmission and management of zoonotic diseases via
   
 ## Publications  
 
-**Beasley, E.M.** Ecologically informed priors improve Bayesian model estimates of species richness and occupancy for undetected species. In review. 
+**Beasley, E.M.** Ecologically informed priors improve Bayesian model estimates of species richness and occupancy for undetected species. In review at *Ecological Applications*. 
+
+**Beasley, E.M.**, Nelson, K.M., Slate, D., Gilbert, A., Pogmore, F., Chipman, R.B., and Davis, A.J. The impact of oral rabies vaccination targeting raccoons across a development intensity gradient in Burlington, Vermont, USA, 2015-2017. In review at *Journal of Wildlife Diseases*.
 
 **Beasley, E.M.**, Aristizabal, N., Bueno, E.M., & White, E.R. 2022. Spatially explicit models predict coffee rust spread in fragmented landscapes. *Landscape Ecology*. https://doi.org/10.1007/s10980-022-01473-1 [pdf](Beasley_etal_2022_coffee_rust.pdf) [Github](https://github.com/Beasley015/QuestCoffeeRustLandscape)
 
