@@ -35,7 +35,7 @@ include_graphics('mewmouse.jpg')
 </div>
 
 <div class = "column-right">
-I’m currently a PhD candidate at the University of Vermont. I’m interested in how ecological processes differ across spatial, temporal, and hierarchical scales. Currently, my work focuses on small mammal community assembly, host-parasite interactions, and coffee rust transmission across landscapes.  
+I’m currently a postdoctoral fellow at the Universit&#233; de Montr&#233;al. I’m interested in how ecological processes differ across spatial, temporal, and hierarchical scales. Currently, my work focuses on how landscape structure influences disease dynamics, especially in the context of rabies management. 
   
 Feel free to check out the Research and CV tabs for more information.
 <br>
@@ -56,7 +56,7 @@ Feel free to check out the Research and CV tabs for more information.
 
 I use quantitative methods to examine how ecological processes vary across spatial, temporal, and organizational scales; especially in the context of community ecology and disease ecology. 
 
-Over the course of my graduate studies I've also developed an interest in alternatives to p-value significance testing, and how these alternatives can be used to more effectively describe ecological systems. My past and current research primarily uses Bayesian hierarchical models, but I hope to expand to other quantitative techniques in the future. 
+Over the course of my career I've also developed an interest in alternatives to p-value significance testing, and how these alternatives can be used to more effectively describe ecological systems. My past research primarily uses Bayesian hierarchical models, but my current work has expanded to other non-frequentist techniques such as agent-based models and network analyses. 
 
 #### Host/ectoparasite interactions
 
@@ -64,17 +64,19 @@ Ectoparasites vary considerably in feeding mode and life history. This variation
 
 #### Environmental effects on disease transmission and prevention
 
-Landscape structure influences the spread of plant pathogens, primarily by affecting pathogen dispersal. Coffee leaf rust (*Hemileia vastatrix*), a fungal disease that causes heavy economic losses in the coffee industry, is likely to be affected by landscape structure via dispersal of its wind-borne spores. My collaborators Natalia Aristizabal, Erika Bueno, Easton White, and I are using simulated landscapes to model the effects of landscape structure on coffee rust transmission.
+Urbanization can affect the transmission and management of zoonotic diseases via changes in host ecology or management strategies. This is particularly true for the raccoon variant of the rabies virus, for which urbanization results in increased population densities of the raccoon hosts and presents challenges for deployment of the oral rabies vaccine (ORV). With my collaborators Amy Davis, Kathy Nelson, Rich Chipman, and Amy Gilbert at USDA APHIS, I used a Bayesian hierarchical model to jointly estimate raccoon abundance and rabies seroprevalence in the urban landscape of Burlington, Vermont. We found that seroprevalence varies spatially, but the cause of the spatial variation is still unclear.
 
-Urbanization can affect the transmission and management of zoonotic diseases via changes in host ecology or management strategies. This is particularly true for the raccoon variant of the rabies virus, for which urbanization results in increased population densities of the raccoon hosts and presents challenges for deployment of the oral rabies vaccine (ORV). With my collaborators Amy Davis, Kathy Nelson, Rich Chipman, and Amy Gilbert at USDA APHIS, I used a Bayesian hierarchical model to jointly estimate raccoon abundance and rabies seroprevalence in the urban landscape of Burlington, Vermont. 
+I will build on this work by using agent-based models to answer two questions: 1) does the seroprevalence threshold for local rabies elimination differ from the threshold needed to prevent invasion? 2) Does landscape structure affect either of these thresholds? I anticipate that the threshold for local elimination will be lower than the threshold for resistance to invasion, and that landscape barriers such as rivers and highways will lower seroprevalence thresholds further by subdividing raccoon populations.
   
 ## Publications  
 
-**Beasley, E.M.** Ecologically informed priors improve Bayesian model estimates of species richness and occupancy for undetected species. In review at *Ecological Applications*. 
+**Beasley, E.M.** Ectoparasite life history traits influence occupancy patterns at varying organizational scales. In revision at *Journal of Parasitology*.  
 
-**Beasley, E.M.**, Nelson, K.M., Slate, D., Gilbert, A., Pogmore, F., Chipman, R.B., and Davis, A.J. The impact of oral rabies vaccination targeting raccoons across a development intensity gradient in Burlington, Vermont, USA, 2015-2017. In review at *Journal of Wildlife Diseases*.
+**Beasley, E.M.** Ecologically informed priors improve Bayesian model estimates of species richness and occupancy for undetected species. In revision at *Ecological Applications*. 
 
-**Beasley, E.M.**, Aristizabal, N., Bueno, E.M., & White, E.R. 2022. Spatially explicit models predict coffee rust spread in fragmented landscapes. *Landscape Ecology*. https://doi.org/10.1007/s10980-022-01473-1 [pdf](Beasley_etal_2022_coffee_rust.pdf) [Github](https://github.com/Beasley015/QuestCoffeeRustLandscape)
+**Beasley, E.M.**, Nelson, K.M., Slate, D., Gilbert, A., Pogmore, F., Chipman, R.B., and Davis, A.J. The impact of oral rabies vaccination targeting raccoons across a development intensity gradient in Burlington, Vermont, USA, 2015-2017. *Journal of Wildlife Diseases*, in press.
+
+**Beasley, E.M.**, Aristiz&#225;bal, N., Bueno, E.M., & White, E.R. 2022. Spatially explicit models predict coffee rust spread in fragmented landscapes. *Landscape Ecology* 37:2165–-2178. [pdf](Beasley_etal_2022_coffee_rust.pdf) [Github](https://github.com/Beasley015/QuestCoffeeRustLandscape)
 
 **Beasley, E.M.** & Maher, S.P. 2019. Small mammal community composition varies among Ozark glades. *Journal of Mammalogy* 100:1774--1782. [pdf](BeasleyMaher2019.pdf) [Github](https://github.com/Beasley015/Beasley-Maher2019_Small_Mammal_Community_Ozark)
   
@@ -84,6 +86,6 @@ Urbanization can affect the transmission and management of zoonotic diseases via
 
 ## Contact
 
-Email: ebeasley \<at\> uvm \<dot\> edu
+Email: emily.beasley \<at\> umontreal \<dot\> ca
 
 [Github](https://github.com/beasley015)
