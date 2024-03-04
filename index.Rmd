@@ -72,7 +72,7 @@ I will build on this work by using agent-based models to answer two questions: 1
 
 **Beasley, E.M.** Ectoparasite life history traits influence occupancy patterns at varying organizational scales. In revision at *Journal of Parasitology*.  
 
-**Beasley, E.M.** 2024. Ecologically informed priors improve Bayesian model estimates of species richness and occupancy for undetected species. *Ecological Applications*, in press. [pdf](EAP2024_Beasley.pdf) [GitHub](https://github.com/Beasley015/Beasley2023_Ecologically_informed_priors_undetected_species)
+**Beasley, E.M.** 2024. Ecologically informed priors improve Bayesian model estimates of species richness and occupancy for undetected species. *Ecological Applications* 34(2). [pdf](EAP2024_Beasley.pdf) [GitHub](https://github.com/Beasley015/Beasley2023_Ecologically_informed_priors_undetected_species)
 
 **Beasley, E.M.**, Nelson, K.M., Slate, D., Gilbert, A., Pogmore, F., Chipman, R.B., and Davis, A.J. 2024. The impact of oral rabies vaccination targeting raccoons across a development intensity gradient in Burlington, Vermont, USA, 2015-2017. *Journal of Wildlife Diseases* 60(1). [pdf](Beasley_etal_2023_rabies.pdf)
 
