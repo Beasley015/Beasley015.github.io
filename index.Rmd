@@ -70,7 +70,7 @@ I will build on this work by using agent-based models to answer two questions: 1
   
 ## Publications  
 
-Soucy, C.P., Banville, F., **Beasley, E.M.**, Lefebvre, B., Poisot, T., & Cameron, C.B. Modelizing the palaeoecological trophic network of the lower Ordovician Fezouata Shale (Morocco) fossil fauna. In review at *Proceedings of the Royal Society B*.
+Soucy, C.P., Banville, F., **Beasley, E.M.**, Lefebvre, B., Poisot, T., & Cameron, C.B. Modeling the palaeoecological trophic network of the Lower Ordovician Fezouata Shale (Morocco) fossil fauna. In review at *Proceedings of the Royal Society B*.
 
 **Beasley, E.M.** Ectoparasite life history traits influence occupancy patterns at varying organizational scales. In revision at *Journal of Parasitology*.  
 
