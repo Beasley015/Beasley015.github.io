@@ -74,15 +74,17 @@ These methods have complementary strengths, and may be able to generate more acc
   
 ## Publications  
 
+Soucy, C.P., Banville, F., **Beasley, E.M.**, Lefebvre, B., Poisot, T., & Cameron, C.B. Modeling the palaeoecological trophic network of the Lower Ordovician Fezouata Shale (Morocco) fossil fauna. In review at *Proceedings of the Royal Society B*.
+
 **Beasley, E.M.** Ectoparasite life history traits influence occupancy patterns at varying organizational scales. In revision at *Journal of Parasitology*.  
 
 **Beasley, E.M.** 2024. Ecologically informed priors improve Bayesian model estimates of species richness and occupancy for undetected species. *Ecological Applications* 34(2). [pdf](EAP2024_Beasley.pdf) [GitHub](https://github.com/Beasley015/Beasley2023_Ecologically_informed_priors_undetected_species)
 
 **Beasley, E.M.**, Nelson, K.M., Slate, D., Gilbert, A., Pogmore, F., Chipman, R.B., and Davis, A.J. 2024. The impact of oral rabies vaccination targeting raccoons across a development intensity gradient in Burlington, Vermont, USA, 2015-2017. *Journal of Wildlife Diseases* 60(1). [pdf](Beasley_etal_2023_rabies.pdf)
 
-**Beasley, E.M.**, Aristiz&#225;bal, N., Bueno, E.M., & White, E.R. 2022. Spatially explicit models predict coffee rust spread in fragmented landscapes. *Landscape Ecology* 37:2165–-2178. [pdf](Beasley_etal_2022_coffee_rust.pdf) [Github](https://github.com/Beasley015/QuestCoffeeRustLandscape)
+**Beasley, E.M.**, Aristiz&#225;bal, N., Bueno, E.M., & White, E.R. 2022. Spatially explicit models predict coffee rust spread in fragmented landscapes. *Landscape Ecology* 37:2165–-2178. [pdf](Beasley_etal_2022_coffee_rust.pdf) [GitHub](https://github.com/Beasley015/QuestCoffeeRustLandscape)
 
-**Beasley, E.M.** & Maher, S.P. 2019. Small mammal community composition varies among Ozark glades. *Journal of Mammalogy* 100:1774--1782. [pdf](BeasleyMaher2019.pdf) [Github](https://github.com/Beasley015/Beasley-Maher2019_Small_Mammal_Community_Ozark)
+**Beasley, E.M.** & Maher, S.P. 2019. Small mammal community composition varies among Ozark glades. *Journal of Mammalogy* 100:1774--1782. [pdf](BeasleyMaher2019.pdf) [GitHub](https://github.com/Beasley015/Beasley-Maher2019_Small_Mammal_Community_Ozark)
   
 ## CV
 
