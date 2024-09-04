@@ -9,7 +9,7 @@
     
     <title>Emily Beasley</title>
 
-        <script src="site_libs/header-attrs-2.27/header-attrs.js"></script>
+        <script src="site_libs/header-attrs-2.25/header-attrs.js"></script>
         <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link href="site_libs/bootstrap-3.3.7/css/bootstrap.min.css" rel="stylesheet" />
@@ -196,12 +196,11 @@ from 2017-2022, indicating that characteristics of the urban environment
 may make rabies elimination possible at lower seroprevalence thresholds.
 I will explore these ideas by using agent-based models to answer two
 questions: 1) At what seroprevalence rate is rabies eliminated with a
-95% probability over a 10-year preiod? 2) Does landscape structure
-affect probability of elimination or time to elimination? I anticipate
-that the threshold for local elimination will be less than the 60%
-previously thought to be required, and that landscape barriers such as
-rivers and highways will lower seroprevalence thresholds further by
-subdividing raccoon populations.</p>
+95% probability over a 10-year preiod? 2) How do varying immigration
+rates influence time to elimination and probability of invasion? I
+anticipate that the threshold for local elimination will be less than
+the 60% previously thought to be required, and that immigration is
+essential for sustaining rabies outbreaks in urban areas.</p>
 </div>
 <div
 id="identifying-rabies-risk-corridors-using-multiple-quantitative-methods"
@@ -221,8 +220,22 @@ the values for the model parameters.</p>
 <p>These methods have complementary strengths, and may be able to
 generate more accurate predictions if used in tandem. I will use
 approximate Bayesian computation (ABC) as a method to bridge these two
-methods (Fig. 1- coming soon!) and more accurately identify possible
-rabies risk corridors at the US-Canada border.</p>
+methods (Fig. 1) and more accurately identify possible rabies risk
+corridors at the US-Canada border.</p>
+<center>
+<div class="float">
+<img src="ModelComparisonWorkflow.png"
+alt="Fig. 1. Workflow for integrating occupancy models and agent-based models to identify possible corridors where rabies can cross the US-Canada border. Posterior estimates from the occupancy model will be used to parameterize the agent-based model. I will then use the agent-based model to generate predictions for rabies spread. By simulating the surveillance process on the outputs of the agent-based model, I can then determine whether current methods would be able to detect a potential border crossing." />
+<div class="figcaption">Fig. 1. Workflow for integrating occupancy
+models and agent-based models to identify possible corridors where
+rabies can cross the US-Canada border. Posterior estimates from the
+occupancy model will be used to parameterize the agent-based model. I
+will then use the agent-based model to generate predictions for rabies
+spread. By simulating the surveillance process on the outputs of the
+agent-based model, I can then determine whether current methods would be
+able to detect a potential border crossing.</div>
+</div>
+</center>
 </div>
 </div>
 </div>
@@ -233,8 +246,8 @@ B., Poisot, T., &amp; Cameron, C.B. Modeling the palaeoecological
 trophic network of the Lower Ordovician Fezouata Shale (Morocco) fossil
 fauna. In review at <em>Proceedings of the Royal Society B</em>.</p>
 <p><strong>Beasley, E.M.</strong> Ectoparasite life history traits
-influence occupancy patterns at varying organizational scales. In
-revision at <em>Journal of Parasitology</em>.</p>
+influence occupancy patterns at varying organizational scales.
+<em>Journal of Parasitology</em>, in press.</p>
 <p><strong>Beasley, E.M.</strong> 2024. Ecologically informed priors
 improve Bayesian model estimates of species richness and occupancy for
 undetected species. <em>Ecological Applications</em> 34(2). <a

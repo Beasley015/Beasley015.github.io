@@ -64,19 +64,25 @@ Over the course of my career I've also developed an interest in alternatives to 
 
 Urbanization can affect the transmission and management of zoonotic diseases via changes in host ecology or management strategies. This is particularly true for the raccoon variant of the rabies virus, for which urbanization results in increased population densities of the raccoon hosts and presents challenges for deployment of the oral rabies vaccine (ORV). Predictably, urban areas tend to have vaccination rates that are lower than the threshold thought to prevent rabies outbreaks, leading to a recent outbreak in Burlington, VT.
 
-Despite the current outbreak, Burlington was previously rabies-free from 2017-2022, indicating that characteristics of the urban environment may make rabies elimination possible at lower seroprevalence thresholds. I will explore these ideas by using agent-based models to answer two questions: 1) At what seroprevalence rate is rabies eliminated with a 95% probability over a 10-year preiod? 2) Does landscape structure affect probability of elimination or time to elimination? I anticipate that the threshold for local elimination will be less than the 60% previously thought to be required, and that landscape barriers such as rivers and highways will lower seroprevalence thresholds further by subdividing raccoon populations.
+Despite the current outbreak, Burlington was previously rabies-free from 2017-2022, indicating that characteristics of the urban environment may make rabies elimination possible at lower seroprevalence thresholds. I will explore these ideas by using agent-based models to answer two questions: 1) At what seroprevalence rate is rabies eliminated with a 95% probability over a 10-year preiod? 2) How do varying immigration rates influence time to elimination and probability of invasion? I anticipate that the threshold for local elimination will be less than the 60% previously thought to be required, and that immigration is essential for sustaining rabies outbreaks in urban areas.
 
 #### Identifying rabies risk corridors using multiple quantitative methods
 
 With increasing raccoon rabies cases close to the US-Canada border, managers in both countries are interested in identifying locations where the virus is most likely to cross the border. Two methods for identifying risk corridors have been independently developed: an enhanced surveillance model using Bayesian methods, and an agent-based model implemented using the Python package SamPy. The surveillance model is built to deal with uncertainty in surveillance data, but has the drawback of being unable to forecast to the future. SamPy, by contrast, is great for forecasting, but there is a great deal of uncertainty in the values for the model parameters.
 
-These methods have complementary strengths, and may be able to generate more accurate predictions if used in tandem. I will use approximate Bayesian computation (ABC) as a method to bridge these two methods (Fig. 1- coming soon!) and more accurately identify possible rabies risk corridors at the US-Canada border.
+These methods have complementary strengths, and may be able to generate more accurate predictions if used in tandem. I will use approximate Bayesian computation (ABC) as a method to bridge these two methods (Fig. 1) and more accurately identify possible rabies risk corridors at the US-Canada border.
+
+<center>
+
+![Fig. 1. Workflow for integrating occupancy models and agent-based models to identify possible corridors where rabies can cross the US-Canada border. Posterior estimates from the occupancy model will be used to parameterize the agent-based model. I will then use the agent-based model to generate predictions for rabies spread. By simulating the surveillance process on the outputs of the agent-based model, I can then determine whether current methods would be able to detect a potential border crossing.](ModelComparisonWorkflow.png)
+
+</center>
   
 ## Publications  
 
 Soucy, C.P., Banville, F., **Beasley, E.M.**, Lefebvre, B., Poisot, T., & Cameron, C.B. Modeling the palaeoecological trophic network of the Lower Ordovician Fezouata Shale (Morocco) fossil fauna. In review at *Proceedings of the Royal Society B*.
 
-**Beasley, E.M.** Ectoparasite life history traits influence occupancy patterns at varying organizational scales. In revision at *Journal of Parasitology*.  
+**Beasley, E.M.** Ectoparasite life history traits influence occupancy patterns at varying organizational scales. *Journal of Parasitology*, in press.  
 
 **Beasley, E.M.** 2024. Ecologically informed priors improve Bayesian model estimates of species richness and occupancy for undetected species. *Ecological Applications* 34(2). [pdf](EAP2024_Beasley.pdf) [GitHub](https://github.com/Beasley015/Beasley2023_Ecologically_informed_priors_undetected_species)
 
