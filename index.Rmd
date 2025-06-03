@@ -78,6 +78,8 @@ These methods have complementary strengths, and may be able to generate more acc
   
 ## Publications  
 
+**Beasley, E.M.** & Poisot, T. Vaccination and immigration rates influence raccoon rabies elimination and recolonization in simulated urban-suburban landscapes. In review at *Journal of Animal Ecology*. Preprint [here](https://doi.org/10.32942/X22K9H)
+
 Soucy, C.P., Banville, F., **Beasley, E.M.**, Lefebvre, B., Poisot, T., & Cameron, C.B. Modeling the palaeoecological trophic network of the Lower Ordovician Fezouata Shale (Morocco) fossil fauna. In review at *Proceedings of the Royal Society B*.
 
 **Beasley, E.M.** Ectoparasite life history traits influence occupancy patterns at varying organizational scales. *Journal of Parasitology* 110(6): 577-589. [pdf](Para23-51.pdf) [GitHub](https://github.com/Beasley015/Beasley2024_Host_traits_explain_occupancy_of_generalists)  
