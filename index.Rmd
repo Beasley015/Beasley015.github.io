@@ -25,7 +25,7 @@ library(knitr)
 
 <div class = "column-left">
 ```{r  out.width = "75%", echo = F}
-include_graphics('mewmouse.jpg') 
+include_graphics('Beasley-30.jpg') 
 ```
 <br>
 <br>
@@ -33,7 +33,7 @@ include_graphics('mewmouse.jpg')
 </div>
 
 <div class = "column-right">
-I’m currently a postdoctoral fellow at the Universit&#233; de Montr&#233;al. I’m interested in how ecological processes differ across spatial, temporal, and hierarchical scales. Currently, my work focuses on how landscape structure influences disease dynamics, especially in the context of rabies management. 
+I’m currently a postdoctoral fellow at Boston University. I’m interested in how ecological processes differ across spatial, temporal, and hierarchical scales. Currently, my work focuses on forecasting tick population dynamics, with the eventual goal of using these forecasts to aid tick-borne disease management. 
   
 Feel free to check out the Research and CV tabs for more information.
 <br>
@@ -58,6 +58,10 @@ Over the course of my career I've also developed an interest in alternatives to 
 
 ### Current Projects
 
+#### Forecasting tick populations using remotely-sensed data
+
+Tick-borne diseases are an ongoing wildlife and public health concern in North America, particularly as changes in climate and land use expand the range and density of many tick species. Accurate forecasts of tick populations are a promising tool for managing tick-borne diseases; allowing land managers make risk-informed decisions and public health agencies to deliver education campaigns before the onset of the tick questing season. Building upon work by Foster et al., I will calibrate an existing forecasting model to allow for site-level variation in tick population responses to environmental covariates, add remotely sensed data to improve predictions, validate these changes using incoming tick survey data, and assimilate these new data into the model workflow. I will then develop an automated pipeline that will generate weekly forecasts of tick populations up to 12 months into the future.
+
 #### Rabies Management in Urban landscapes
 
 Urbanization can affect the transmission and management of zoonotic diseases via changes in host ecology or management strategies. This is particularly true for the raccoon variant of the rabies virus, for which urbanization results in increased population densities of the raccoon hosts and presents challenges for deployment of the oral rabies vaccine (ORV). Predictably, urban areas tend to have vaccination rates that are lower than the threshold thought to prevent rabies outbreaks, leading to a recent outbreak in Burlington, VT.
@@ -77,6 +81,8 @@ These methods have complementary strengths, and may be able to generate more acc
 </center>
   
 ## Publications  
+
+Ramírez-Guerrero, G., Banville, F., **Beasley, E.M.**, Poisot, T., & Cameron, C.B. Palaeoecological food webs through the Ordovician-Silurian extinction event of Anticosti Island, Québec. In review at *Lethaia*. 
 
 **Beasley, E.M.** & Poisot, T. Vaccination and immigration rates influence raccoon rabies elimination and recolonization in simulated urban-suburban landscapes. In review at *Journal of Animal Ecology*. Preprint [here](https://doi.org/10.32942/X22K9H)
 
