@@ -46,6 +46,9 @@ Feel free to check out the Research and CV tabs for more information.
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 </div>  
   
   
@@ -104,6 +107,6 @@ Soucy, C.P., Banville, F., **Beasley, E.M.**, Lefebvre, B., Poisot, T., & Camero
 
 ## Contact
 
-Email: emily.beasley \<at\> umontreal \<dot\> ca
+Email: ebeasley \<at\> bu \<dot\> edu
 
 [Github](https://github.com/beasley015)
